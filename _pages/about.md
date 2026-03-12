@@ -4,7 +4,7 @@ title: about
 permalink: /
 nav: true
 nav_order: 1
----
+--- 
 
 I am a Medical Doctor and entrepreneur working at the intersection of medicine, innovation, and business.
 
