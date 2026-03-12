@@ -19,3 +19,11 @@ I graduated summa cum laude in Medicine from the University of Padua, Italy. Dur
 Alongside my professional work, I actively contribute to global innovation networks including [High-Impact Medicine](https://www.highimpactmedicine.org), the Healthcare Leadership Academy, [Nucleate](https://nucleate.xyz), the world’s largest community of bio-innovators, and the [Italian Society for Artificial Intelligence in Medicine (SIIAM)](https://www.siiam.it/en/sign-in).
 
 Combining clinical training with entrepreneurial experience, I bring a multidisciplinary perspective to healthcare innovation, focusing on how emerging technologies can translate into meaningful improvements for patients and healthcare systems.
+
+---
+
+### Contact
+
+Email: giovanettifrancesca98@email.com  
+LinkedIn: https://www.linkedin.com/in/dr-francesca-giovanetti/ 
+YouTube: https://www.youtube.com/@FrancescaGiovanettiMD
