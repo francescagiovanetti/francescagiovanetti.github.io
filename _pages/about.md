@@ -23,8 +23,20 @@ Combining clinical training with entrepreneurial experience, I bring a multidisc
 
 ---
 
-### Contact
+<br>
 
-Email: giovanettifrancesca98@email.com  
-LinkedIn: https://www.linkedin.com/in/dr-francesca-giovanetti/ 
-YouTube: https://www.youtube.com/@FrancescaGiovanettiMD
+<h2>Contact</h2>
+
+<p>
+<a href="mailto:giovanettifrancesca98@email.com">
+<i class="fas fa-envelope fa-2x"></i>
+</a>
+
+<a href="https://www.linkedin.com/in/dr-francesca-giovanetti" target="_blank">
+<i class="fab fa-linkedin fa-2x"></i>
+</a>
+
+<a href="https://www.youtube.com/@FrancescaGiovanettiMD" target="_blank">
+<i class="fab fa-youtube fa-2x"></i>
+</a>
+</p>
