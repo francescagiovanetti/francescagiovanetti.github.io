@@ -23,20 +23,16 @@ Combining clinical training with entrepreneurial experience, I bring a multidisc
 
 ---
 
-<br>
+<div style="text-align:center; margin-top:40px; font-size:2.5rem;">
+  <a href="mailto:giovanettifrancesca98@email.com" style="margin:0 15px;">
+    <i class="fas fa-envelope"></i>
+  </a>
 
-<h2>Contact</h2>
+  <a href="https://www.linkedin.com/in/dr-francesca-giovanetti" target="_blank" style="margin:0 15px;">
+    <i class="fab fa-linkedin"></i>
+  </a>
 
-<p>
-<a href="mailto:giovanettifrancesca98@email.com">
-<i class="fas fa-envelope fa-2x"></i>
-</a>
-
-<a href="https://www.linkedin.com/in/dr-francesca-giovanetti" target="_blank">
-<i class="fab fa-linkedin fa-2x"></i>
-</a>
-
-<a href="https://www.youtube.com/@FrancescaGiovanettiMD" target="_blank">
-<i class="fab fa-youtube fa-2x"></i>
-</a>
-</p>
+  <a href="https://www.youtube.com/@FrancescaGiovanettiMD" target="_blank" style="margin:0 15px;">
+    <i class="fab fa-youtube"></i>
+  </a>
+</div>
