@@ -11,7 +11,7 @@ profile:
   image_circular: false
   more_info: >
     <p>Medical Doctor</p>
-    <p>Founder’s Associate – Syntropic Medical</p>
+    <p>Founder’s Associate – Syntropic Medical</p> 
 ---
 
 I am a Medical Doctor and Entrepreneur working at the intersection of medicine, innovation, and business.
