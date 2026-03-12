@@ -23,16 +23,14 @@ Combining clinical training with entrepreneurial experience, I bring a multidisc
 
 ---
 
-<div style="text-align:center; margin-top:40px;">
-  <a href="mailto:giovanettifrancesca98@email.com" style="margin:0 15px;">
-    <img src="/assets/img/mail.png" alt="Mail" style="width:40px; height:40px;">
+<div style="text-align:center; margin-top:40px; font-size:2.4rem;">
+  <a href="mailto:giovanettifrancesca98@email.com" style="margin:0 14px; color:inherit; text-decoration:none;">
+    <i class="fas fa-envelope"></i>
   </a>
-
-  <a href="https://www.linkedin.com/in/dr-francesca-giovanetti" target="_blank" rel="noopener" style="margin:0 15px;">
-    <img src="/assets/img/linkedin.png" alt="LinkedIn" style="width:40px; height:40px;">
+  <a href="https://www.linkedin.com/in/dr-francesca-giovanetti/" target="_blank" rel="noopener" style="margin:0 14px; color:inherit; text-decoration:none;">
+    <i class="fab fa-linkedin"></i>
   </a>
-
-  <a href="https://www.youtube.com/@FrancescaGiovanettiMD" target="_blank" rel="noopener" style="margin:0 15px;">
-    <img src="/assets/img/youtube.png" alt="YouTube" style="width:40px; height:40px;">
+  <a href="https://www.youtube.com/@FrancescaGiovanettiMD" target="_blank" rel="noopener" style="margin:0 14px; color:inherit; text-decoration:none;">
+    <i class="fab fa-youtube"></i>
   </a>
 </div>
