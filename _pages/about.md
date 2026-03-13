@@ -29,6 +29,14 @@ Alongside my professional work, I actively contribute to global innovation netwo
 Combining clinical training with entrepreneurial experience, I bring a multidisciplinary perspective to healthcare innovation, focusing on how emerging technologies can translate into meaningful improvements for patients and healthcare systems.
 
 ---
-email: giovanettifrancesca98@email.com
-linkedin_username: dr-francesca-giovanetti
-youtube_id: FrancescaGiovanettiMD
+<div class="social-icons-bottom">
+  <a href="mailto:giovanettifrancesca98@email.com">
+    <i class="fas fa-envelope"></i>
+  </a>
+  <a href="https://www.linkedin.com/in/dr-francesca-giovanetti/" target="_blank">
+    <i class="fab fa-linkedin"></i>
+  </a>
+  <a href="https://www.youtube.com/@FrancescaGiovanettiMD" target="_blank">
+    <i class="fab fa-youtube"></i>
+  </a>
+</div>
