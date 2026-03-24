@@ -1,9 +1,13 @@
 ---
-layout: about
+layout: page
 title: 
 permalink: /
 nav: true
 nav_order: 1
+<h1 style="font-size:4rem; font-weight:800;">
+  Francesca Giovanetti
+</h1>
+
 
 profile:
   align: right
