@@ -1,31 +1,16 @@
 ---
-layout: page
+layout: about
 title: ""
 permalink: /
 nav: true
 nav_order: 1
----
-
-
-<h1 style="font-size:4rem; font-weight:600;">
-  Francesca Giovanetti
-</h1>
-
-
-
 
 profile:
   align: right
-  image: prof_pic.jpg true
-  image_circular: false 
+  image: prof_pic.jpg
+  image_circular: false
 
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
+social: true
 ---
 
 I am a Medical Doctor and Entrepreneur working at the intersection of medicine, innovation, and business.
