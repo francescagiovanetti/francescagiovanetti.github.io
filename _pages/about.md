@@ -7,7 +7,7 @@ nav_order: 1
 ---
 
 
-<h1 style="font-size:4rem; font-weight:800;">
+<h1 style="font-size:4rem; font-weight:600;">
   Francesca Giovanetti
 </h1>
 
