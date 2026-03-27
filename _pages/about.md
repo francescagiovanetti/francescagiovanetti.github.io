@@ -10,7 +10,6 @@ profile:
   image: prof_pic.jpg
   image_circular: false
 
-social: true
 ---
 
 I am a Medical Doctor and Entrepreneur working at the intersection of medicine, innovation, and business.
