@@ -12,6 +12,10 @@ profile:
 
 ---
 
+<h1 style="font-size:4rem; font-weight:800;">
+  Francesca Giovanetti
+</h1>
+
 I am a Medical Doctor and Entrepreneur working at the intersection of medicine, innovation, and business.
 
 I am currently a Founder’s Associate at [Syntropic Medical](https://syntropicmedical.com), where I collaborate closely with the CEO on business development while supporting the company’s daily operations. Drawing on my medical background, I work with key stakeholders to understand clinical needs and translate them into strong strategic and market perspectives.
