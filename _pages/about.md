@@ -1,16 +1,9 @@
 ---
 layout: about
-title: 
+title: about
 permalink: /
 nav: true
 nav_order: 1
-social: true
-
-profile:
-  align: right
-  image: profile.jpg
-  image_circular: false
----
 
 profile:
   align: right
@@ -28,15 +21,24 @@ Alongside my professional work, I actively contribute to global innovation netwo
 
 Combining clinical training with entrepreneurial experience, I bring a multidisciplinary perspective to healthcare innovation, focusing on how emerging technologies can translate into meaningful improvements for patients and healthcare systems.
 
----
 <div class="social-icons-bottom">
-  <a href="mailto:giovanettifrancesca98@email.com">
+  <a href="mailto:giovanettifrancesca98@email.com" aria-label="Email Francesca Giovanetti">
     <i class="fas fa-envelope"></i>
   </a>
-  <a href="https://www.linkedin.com/in/dr-francesca-giovanetti/" target="_blank">
+  <a
+    href="https://www.linkedin.com/in/dr-francesca-giovanetti/"
+    target="_blank"
+    rel="noopener noreferrer"
+    aria-label="Francesca Giovanetti on LinkedIn"
+  >
     <i class="fab fa-linkedin"></i>
   </a>
-  <a href="https://www.youtube.com/@FrancescaGiovanettiMD" target="_blank">
+  <a
+    href="https://www.youtube.com/@FrancescaGiovanettiMD"
+    target="_blank"
+    rel="noopener noreferrer"
+    aria-label="Francesca Giovanetti on YouTube"
+  >
     <i class="fab fa-youtube"></i>
   </a>
 </div>

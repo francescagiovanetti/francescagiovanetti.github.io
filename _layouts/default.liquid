@@ -12,18 +12,12 @@
       {% endif %}
       <meta http-equiv="refresh" content="3; url={{ redirect }}">
     {% endif %}
-    <!-- {% include navbar.liquid %} -->
+    {% include head.liquid %}
   </head>
-
-<!-- Footer -->
-<!-- {% include footer.liquid %} -->
-
-<!-- JavaScripts -->
-<!-- {% include scripts.liquid %} -->
   <!-- Body -->
   <body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
     <!-- Header -->
-
+    {% include header.liquid %}
 
     <!-- Content -->
     <div class="container mt-5" role="main">

@@ -40,6 +40,32 @@ body.sticky-bottom-footer {
   }
 }
 
+.about-profile {
+  width: 100%;
+}
+
+@media (min-width: 576px) {
+  .about-profile {
+    width: 45%;
+  }
+}
+
+.social-icons-bottom {
+  display: flex;
+  gap: 1rem;
+  margin-top: 2rem;
+
+  a {
+    color: var(--global-text-color);
+    font-size: 1.5rem;
+    text-decoration: none;
+
+    &:hover {
+      color: var(--global-theme-color);
+    }
+  }
+}
+
 // Content layout uses Bootstrap's grid system with responsive columns
 // Main content flows naturally through container-mt-5 and Bootstrap grid classes
 // See _layouts/default.liquid and _includes/projects.liquid for examples
