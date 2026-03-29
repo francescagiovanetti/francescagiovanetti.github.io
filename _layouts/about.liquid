@@ -8,8 +8,9 @@ layout: default
       {% assign normalized_site_title = site.title | strip %}
       {% assign normalized_author_name = author_name | strip %}
       {% if normalized_site_title == 'blank' or normalized_site_title == normalized_author_name %}
-        <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
-        {{ site.last_name }}
+        <span class="font-weight-bold">{{ site.first_name }}</span>
+        {% if site.middle_name %} {{ site.middle_name }}{% endif %}
+        <span class="font-weight-bold">{{ site.last_name }}</span>
       {% else %}
         {{ site.title }}
       {% endif %}
