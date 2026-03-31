@@ -2,19 +2,8 @@
  * Blog post and listing styles
  ******************************************************************************/
 
-.header-bar {
-  border-bottom: 1px solid var(--global-divider-color);
-  text-align: center;
-  padding-top: 2rem;
-  padding-bottom: 3rem;
-
-  h1 {
-    color: var(--global-theme-color);
-    font-size: 5rem;
-  }
-}
-
 .tag-category-list {
+  border-top: 1px solid var(--global-divider-color);
   border-bottom: 1px solid var(--global-divider-color);
   text-align: center;
   padding-top: 1rem;
@@ -76,6 +65,16 @@
       display: unset;
     }
   }
+
+  h3 {
+    font-size: clamp(1.35rem, 2vw, 1.8rem);
+    line-height: 1.1;
+    margin-bottom: 1rem;
+  }
+
+  h3 .post-title {
+    font-weight: 500;
+  }
 }
 
 .pagination {
@@ -125,6 +124,12 @@
 }
 
 .featured-posts {
+  .card-title {
+    font-size: 1.1rem;
+    line-height: 1.2;
+    font-weight: 500;
+  }
+
   a {
     color: var(--global-text-color-light);
     text-decoration: none;
