@@ -121,8 +121,8 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-siiam-società-italiana-intelligenza-artificiale-in-medicina",
-          title: 'SIIAM, Società Italiana Intelligenza Artificiale in Medicina',
+          section: "News",},{id: "projects-siiam",
+          title: 'SIIAM',
           description: "Italian Society for Artificial Intelligence in Medicine",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
@@ -136,6 +136,16 @@ ninja.data = [{
           description: "The world&#39;s largest community of bio-innovators",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
+            },},{id: "projects-healthmakers",
+          title: 'HealthMakers',
+          description: "Candid conversations about what it really takes to build in healthcare, unpacking the messy incentives, real-world constraints, and high stakes that shape innovation in medicine",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/8_project/";
+            },},{id: "projects-telos-circle",
+          title: 'Telos Circle',
+          description: "A society of builders engineering humanity&#39;s future",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/9_project/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
