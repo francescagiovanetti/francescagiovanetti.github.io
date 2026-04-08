@@ -3,7 +3,7 @@ layout: page
 title: Futurely
 description: Mentor for the Healthcare Track
 img: assets/img/futurely.png
-importance: 2
+importance: 4
 category: work
 redirect: https://www.myfuturely.com/
 ---

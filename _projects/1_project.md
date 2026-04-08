@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SIIAM, Società Italiana Intelligenza Artificiale in Medicina
+title: SIIAM
 description: Italian Society for Artificial Intelligence in Medicine
 img: assets/img/siiam.png
 importance: 1

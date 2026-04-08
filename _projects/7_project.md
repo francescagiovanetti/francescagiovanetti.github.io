@@ -3,7 +3,7 @@ layout: page
 title: Nucleate
 description: The world's largest community of bio-innovators
 img: assets/img/nucleate.png
-importance: 1
+importance: 3
 category: work
 redirect: https://nucleate.org/
 ---
