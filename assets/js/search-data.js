@@ -51,7 +51,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-when-light-leaves-the-lab-a-breakthrough-for-depression-treatment",
+            },{id: "post-guardarsi-nella-ferita-tra-occhi-e-pixel",
+        
+          title: 'Guardarsi nella ferita, tra occhi e pixel <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "Quale altro? L’umano o l’algoritmo?",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://www.passionelinguaggi.it/2026/05/03/guardarsi-nella-ferita-tra-occhi-e-pixel/", "_blank");
+          
+        },
+      },{id: "post-when-light-leaves-the-lab-a-breakthrough-for-depression-treatment",
         
           title: 'When Light Leaves the Lab: A Breakthrough for Depression Treatment <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
