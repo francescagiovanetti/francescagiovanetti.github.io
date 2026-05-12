@@ -7,7 +7,7 @@ nav_order: 1
 
 profile:
   align: right
-  image: profile.jpg
+  image: about-doctor-1.jpg
   image_circular: false
 ---
 
